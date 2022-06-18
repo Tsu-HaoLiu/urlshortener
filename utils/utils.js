@@ -1,4 +1,3 @@
-
 // https://stackoverflow.com/a/15855457/8630834
 // Regex feels unnecessarily long, look to improve in the future.
 function validateUrl(value) {
